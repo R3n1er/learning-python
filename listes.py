@@ -32,3 +32,11 @@ print(social)
 ## Pour connaitre la longueur de la liste
 print("Longueur de la liste")
 print(len(social))
+
+# La methode sort()
+print("utilisation de la methode sort :")
+print(social.sort())
+
+
+## Les tuples
+plateformes_sociales_tuple = ("Facebook", "Instagram", "TikTok", "Twitter")
