@@ -5,7 +5,7 @@
 # A fun fact about yourself
 # I am learning Python3
 
-# Output off first initaial
+# Output off first initial
 print("  A  " )
 print(" A  A ")
 print("A    A")
@@ -19,8 +19,8 @@ RRRR
 R    R
 R    R
 RRRR
-R R
 R  R
+R   R
 R    R
 """
 print(name)
