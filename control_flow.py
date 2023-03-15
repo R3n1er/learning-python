@@ -13,10 +13,16 @@ for i in range(5):
 # Dans cet exemple, nous avons utilisé la boucle for pour afficher les nombres de 0 à 4. La fonction range(5) renvoie une séquence de nombres allant de 0 à 4, et la boucle for itère sur chaque nombre et l'affiche à l'écran.
 
 # La boucle While
-i = 0
-while i < 5:
-    print(i)
+# Le code suivant calcule la somme des nombres de 1 à 10
+somme = 0
+i = 1
+
+while i <= 10:
+    somme += i
     i += 1
+
+print("La somme est", somme)
+
 
 #Les expressions booléennes
 a = 5
