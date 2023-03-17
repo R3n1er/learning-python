@@ -21,3 +21,16 @@ def calculer_somme(nombre1, nombre2):
 # Exemple d'utilisation
 resultat = calculer_somme(3, 5)
 print(resultat)
+
+# Fonction qui vérifie si un nombre est pai ou impair
+def est_pair(nombre):
+    if nombre % 2 == 0:
+        return True
+    else:
+        return False
+
+# Exemple d'utilisation
+if est_pair(4):
+    print("Le nombre est pair")
+else:
+    print("Le nombre est impair")
