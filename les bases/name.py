@@ -7,6 +7,8 @@
 #NoneType
 
 
-name = input("Type your Name: ")
+name = input("Votre prénom: ")
 
-print("Hello, " + name)
+nom_de_famille = input("Votre nom de famille: ")
+
+print(f"hello, {name} {nom_de_famille}")
