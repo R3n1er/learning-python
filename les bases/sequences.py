@@ -10,7 +10,8 @@ print(names[1])
 
 #Data Structures in Python
 
-#list
+#list -- sequence of mutable values
 #tuple -- sequence of immutables values
-#set
-#dict -- collection of key-value pairs
+#set -- collection of unique values
+#dict -- (dictionnary) collection of key-value pairs
+
