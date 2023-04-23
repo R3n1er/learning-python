@@ -8,4 +8,5 @@ print(type(nombre))
 
 nombre = 15
 resultat = "Le nombre est " + str(nombre) #avec concatenation
+
 print(resultat)
